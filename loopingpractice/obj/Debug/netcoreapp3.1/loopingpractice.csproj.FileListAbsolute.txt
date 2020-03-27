@@ -1,0 +1,11 @@
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.exe
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.deps.json
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.runtimeconfig.json
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.dll
+C:\Users\owner\source\repos\loopingpractice\bin\Debug\netcoreapp3.1\loopingpractice.pdb
+C:\Users\owner\source\repos\loopingpractice\obj\Debug\netcoreapp3.1\loopingpractice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\loopingpractice\obj\Debug\netcoreapp3.1\loopingpractice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\loopingpractice\obj\Debug\netcoreapp3.1\loopingpractice.AssemblyInfo.cs
+C:\Users\owner\source\repos\loopingpractice\obj\Debug\netcoreapp3.1\loopingpractice.dll
+C:\Users\owner\source\repos\loopingpractice\obj\Debug\netcoreapp3.1\loopingpractice.pdb

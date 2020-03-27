@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopingpractice", "loopingpractice.csproj", "{BEE3907E-3363-450F-9FFB-B700B66A34A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 a", "..\Exercise 4 a\Exercise 4 a.csproj", "{25F97B71-DF4E-416C-8C62-50604F15CA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE3907E-3363-450F-9FFB-B700B66A34A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE3907E-3363-450F-9FFB-B700B66A34A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE3907E-3363-450F-9FFB-B700B66A34A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE3907E-3363-450F-9FFB-B700B66A34A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F97B71-DF4E-416C-8C62-50604F15CA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F97B71-DF4E-416C-8C62-50604F15CA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F97B71-DF4E-416C-8C62-50604F15CA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F97B71-DF4E-416C-8C62-50604F15CA69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E71FAB-DBA7-43A8-B3F8-1332EFBEEDA4}
+	EndGlobalSection
+EndGlobal

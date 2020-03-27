@@ -1,0 +1,11 @@
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.exe
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.deps.json
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.runtimeconfig.json
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.dll
+C:\Users\owner\source\repos\Exercise 4 a\bin\Debug\netcoreapp3.1\Exercise 4 a.pdb
+C:\Users\owner\source\repos\Exercise 4 a\obj\Debug\netcoreapp3.1\Exercise 4 a.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Exercise 4 a\obj\Debug\netcoreapp3.1\Exercise 4 a.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Exercise 4 a\obj\Debug\netcoreapp3.1\Exercise 4 a.AssemblyInfo.cs
+C:\Users\owner\source\repos\Exercise 4 a\obj\Debug\netcoreapp3.1\Exercise 4 a.dll
+C:\Users\owner\source\repos\Exercise 4 a\obj\Debug\netcoreapp3.1\Exercise 4 a.pdb
